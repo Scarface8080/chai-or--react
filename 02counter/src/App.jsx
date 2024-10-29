@@ -13,6 +13,13 @@ function App() {
   console.log('clicked', counter);
   if (counter < 20) {
     counter = counter + 1
+    // counter = counter + 1
+    // counter = counter + 1
+    // counter = counter + 1
+    // setCounter((prevCounter) => prevCounter + 1);
+    // setCounter((prevCounter) => prevCounter + 1);
+    // setCounter((prevCounter) => prevCounter + 1);
+    // setCounter((prevCounter) => prevCounter + 1);
     setCounter(counter);
     }
 
